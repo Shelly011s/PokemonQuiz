@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color:#B73136;
+  font-family: 'Righteous', cursive;
+  color: #22221A;
+}
+
+
+
+.board {
+  min-width: 350px;
+  min-height: 420px;
+  border: 5px solid white;
+  border-radius: 10px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: whitesmoke;
+}
+
+
+
+
+
+
